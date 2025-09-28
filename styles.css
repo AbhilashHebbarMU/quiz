@@ -247,7 +247,7 @@ html, body {
   text-align: center;
   margin-top: 8px;
   margin-bottom: 2rem;
-  color: #373a55;
+  color: #FFFFFF;
 }
 
 .score-container {
@@ -422,3 +422,4 @@ label {
 }
 
 /* You can use the same glass and color style for your quiz-container and score-container for a unified user experience */
+
